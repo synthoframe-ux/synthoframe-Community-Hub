@@ -1,2 +1,31 @@
-# synthoframe-Community-Hub
-“欢迎来到 synthoframe官方公共仓库。  synthoframe是一款专为UX/UI设计师、前端开发者和产品经理打造的AI协作工具。我们致力于通过AI自动生成可交互和响应式的高保真原型，从而帮助产品经理快速验证想法，并同时弥合设计与开发之间的鸿沟，让整个工作流程更加无缝高效 。本仓库是 synthoframe 的社区中心。尽管我们是闭源商业产品，核心代码库为私有，但这里是您与我们团队交流、提供反馈、报告问题以及讨论产品功能建议的最佳场所。  您可以在此找到最新的产品公告、详细的API文档、实用的SDK示例以及由社区成员创作的精彩用例展示。我们期待您的参与，共同塑造更智能、更高效的协作未来！
+Synthoframe - The AI Collaboration Catalyst
+Welcome to the official Synthoframe public repository.
+
+Synthoframe is a leading AI collaboration tool built for UX/UI designers, frontend developers, and product managers. We are committed to using AI to automatically generate interactive and responsive high-fidelity prototypes, helping product managers and designers to rapidly validate ideas and iterate. Simultaneously, we provide developers with high-quality, editable frontend code, thereby bridging the gap between design and development.   
+
+This repository serves as Synthoframe's community hub, designed to be the best platform for you to engage with our team and other community members.
+
+🚀 Our Core Value Proposition
+AI-Powered Prototype Accelerator: With just a text description or sketch, Synthoframe can instantly generate fully interactive, cross-device responsive high-fidelity prototypes. This dramatically shortens the distance from idea to a testable prototype.   
+
+Seamless Design-to-Dev Workflow: We don't just generate beautiful designs; we also provide high-quality, editable frontend code (e.g., in React, Vue). This allows developers to use the code directly, eliminating the hassle of manual slicing and repetitive coding, and truly enabling efficient collaboration.   
+
+💡 How You Can Engage
+Although Synthoframe is a closed-source commercial product with a private core codebase , we firmly believe in the power of community. This repository is built for you to ensure you can easily communicate and interact with us.   
+
+❓ Questions & Discussions (GitHub Discussions)
+This is the best place for open-ended communication with our team.
+
+Have a question? Ask it here: (https://www.google.com/search?q=https://github.com/Synthoframe-Community-Hub/discussions). Our team and community members will answer.
+
+Have a suggestion? Propose new feature ideas and share your user experience to help us shape the product's future.
+
+🐛 Report Issues (GitHub Issues)
+If you encounter a bug with our product or API, please submit a detailed bug report on the Issues page.   
+
+🔗 More Resources
+Official Website: https://synthoframe.com
+Use Case Gallery: See amazing projects community members have built with Synthoframe.   
+<img width="1442" height="1528" alt="case-list" src="https://github.com/user-attachments/assets/25edd3e0-ecd5-49eb-bdd1-fce2bb279b1c" />
+
+We look forward to your participation as we build a smarter, more efficient future for collaboration!
