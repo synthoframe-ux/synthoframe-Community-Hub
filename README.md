@@ -16,7 +16,7 @@ Although Synthoframe is a closed-source commercial product with a private core c
 ❓ Questions & Discussions (GitHub Discussions)
 This is the best place for open-ended communication with our team.
 
-Have a question? Ask it here: (https://www.google.com/search?q=https://github.com/Synthoframe-Community-Hub/discussions). Our team and community members will answer.
+Have a question? Ask it here: https://github.com/synthoframe-ux/synthoframe-Community-Hub/issues. Our team and community members will answer.
 
 Have a suggestion? Propose new feature ideas and share your user experience to help us shape the product's future.
 
@@ -25,6 +25,7 @@ If you encounter a bug with our product or API, please submit a detailed bug rep
 
 🔗 More Resources
 Official Website: https://synthoframe.com
+
 Use Case Gallery: See amazing projects community members have built with Synthoframe.   
 <img width="1442" height="1528" alt="case-list" src="https://github.com/user-attachments/assets/25edd3e0-ecd5-49eb-bdd1-fce2bb279b1c" />
 
